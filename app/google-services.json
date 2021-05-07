@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648394988155",
+    "project_id": "hostel-management-system-fb6aa",
+    "storage_bucket": "hostel-management-system-fb6aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648394988155:android:729f02dee2d135c66520de",
+        "android_client_info": {
+          "package_name": "com.example.myui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648394988155-d1haijipop5ed7hpgl3cr3ctf82619ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6MsBpXNBwyf8HvrtRny_-i1CIz_1L3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648394988155-d1haijipop5ed7hpgl3cr3ctf82619ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
