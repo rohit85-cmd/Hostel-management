@@ -179,6 +179,13 @@ public class registeration extends AppCompatActivity {
                                             }
                                         });
 
+                                        documentReference.set(user).addOnFailureListener(new OnFailureListener() {
+                                            @Override
+                                            public void onFailure(@NonNull Exception e) {
+                                                Log.w(TAG, "onFailure: Error",e );
+                                            }
+                                        });
+
 
 
 
